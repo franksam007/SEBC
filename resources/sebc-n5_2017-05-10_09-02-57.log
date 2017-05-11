@@ -1,0 +1,862 @@
+>>>>>>>>>>>>>>>>run teragen: 1 1 512<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m41.265s
+user	0m6.216s
+sys	0m0.719s
+------------------run terasort: 1 1 512-------------------------------------------
+
+real	2m35.186s
+user	0m8.108s
+sys	0m0.855s
+Deleted /results/tg-10GB-1-1-512
+Deleted /results/ts-10GB-1-1-512
+>>>>>>>>>>>>>>>>run teragen: 1 1 1024<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m37.098s
+user	0m6.076s
+sys	0m0.728s
+------------------run terasort: 1 1 1024-------------------------------------------
+
+real	2m30.367s
+user	0m7.937s
+sys	0m0.806s
+Deleted /results/tg-10GB-1-1-1024
+Deleted /results/ts-10GB-1-1-1024
+>>>>>>>>>>>>>>>>run teragen: 1 1 1536<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m35.167s
+user	0m6.037s
+sys	0m0.803s
+------------------run terasort: 1 1 1536-------------------------------------------
+
+real	3m21.305s
+user	0m8.219s
+sys	0m0.886s
+Deleted /results/tg-10GB-1-1-1536
+Deleted /results/ts-10GB-1-1-1536
+>>>>>>>>>>>>>>>>run teragen: 1 2 512<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m34.945s
+user	0m5.867s
+sys	0m0.725s
+------------------run terasort: 1 2 512-------------------------------------------
+
+real	1m59.642s
+user	0m7.804s
+sys	0m0.774s
+Deleted /results/tg-10GB-1-2-512
+Deleted /results/ts-10GB-1-2-512
+>>>>>>>>>>>>>>>>run teragen: 1 2 1024<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m37.149s
+user	0m6.148s
+sys	0m0.769s
+------------------run terasort: 1 2 1024-------------------------------------------
+
+real	2m19.065s
+user	0m7.910s
+sys	0m0.845s
+Deleted /results/tg-10GB-1-2-1024
+Deleted /results/ts-10GB-1-2-1024
+>>>>>>>>>>>>>>>>run teragen: 1 2 1536<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m37.454s
+user	0m5.970s
+sys	0m0.738s
+------------------run terasort: 1 2 1536-------------------------------------------
+
+real	2m31.925s
+user	0m8.197s
+sys	0m0.948s
+Deleted /results/tg-10GB-1-2-1536
+Deleted /results/ts-10GB-1-2-1536
+>>>>>>>>>>>>>>>>run teragen: 1 4 512<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m36.095s
+user	0m6.149s
+sys	0m0.753s
+------------------run terasort: 1 4 512-------------------------------------------
+
+real	1m49.124s
+user	0m8.149s
+sys	0m0.838s
+Deleted /results/tg-10GB-1-4-512
+Deleted /results/ts-10GB-1-4-512
+>>>>>>>>>>>>>>>>run teragen: 1 4 1024<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m37.201s
+user	0m6.029s
+sys	0m0.698s
+------------------run terasort: 1 4 1024-------------------------------------------
+
+real	1m51.284s
+user	0m8.253s
+sys	0m0.824s
+Deleted /results/tg-10GB-1-4-1024
+Deleted /results/ts-10GB-1-4-1024
+>>>>>>>>>>>>>>>>run teragen: 1 4 1536<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m37.874s
+user	0m5.812s
+sys	0m0.742s
+------------------run terasort: 1 4 1536-------------------------------------------
+
+real	2m9.915s
+user	0m8.063s
+sys	0m0.829s
+Deleted /results/tg-10GB-1-4-1536
+Deleted /results/ts-10GB-1-4-1536
+>>>>>>>>>>>>>>>>run teragen: 1 8 512<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m36.306s
+user	0m6.141s
+sys	0m0.801s
+------------------run terasort: 1 8 512-------------------------------------------
+
+real	1m48.527s
+user	0m8.318s
+sys	0m0.855s
+Deleted /results/tg-10GB-1-8-512
+Deleted /results/ts-10GB-1-8-512
+>>>>>>>>>>>>>>>>run teragen: 1 8 1024<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m35.359s
+user	0m6.033s
+sys	0m0.736s
+------------------run terasort: 1 8 1024-------------------------------------------
+
+real	1m46.788s
+user	0m7.444s
+sys	0m0.787s
+Deleted /results/tg-10GB-1-8-1024
+Deleted /results/ts-10GB-1-8-1024
+>>>>>>>>>>>>>>>>run teragen: 1 8 1536<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m37.400s
+user	0m6.084s
+sys	0m0.765s
+------------------run terasort: 1 8 1536-------------------------------------------
+
+real	2m2.126s
+user	0m7.836s
+sys	0m0.783s
+Deleted /results/tg-10GB-1-8-1536
+Deleted /results/ts-10GB-1-8-1536
+
+>>>>>>>>>>>>>>>>run teragen: 2 1 512<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	0m3.300s
+user	0m4.430s
+sys	0m0.648s
+------------------run terasort: 2 1 512-------------------------------------------
+
+real	0m2.870s
+user	0m3.420s
+sys	0m0.491s
+rm: `/results/tg-10GB-2-1-512': No such file or directory
+rm: `/results/ts-10GB-2-1-512': No such file or directory
+>>>>>>>>>>>>>>>>run teragen: 2 1 1024<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	0m3.237s
+user	0m4.148s
+sys	0m0.572s
+------------------run terasort: 2 1 1024-------------------------------------------
+
+real	0m2.801s
+user	0m4.068s
+sys	0m0.551s
+rm: `/results/tg-10GB-2-1-1024': No such file or directory
+rm: `/results/ts-10GB-2-1-1024': No such file or directory
+>>>>>>>>>>>>>>>>run teragen: 2 1 1536<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	0m3.019s
+user	0m4.391s
+sys	0m0.584s
+------------------run terasort: 2 1 1536-------------------------------------------
+
+real	0m2.847s
+user	0m3.586s
+sys	0m0.491s
+rm: `/results/tg-10GB-2-1-1536': No such file or directory
+rm: `/results/ts-10GB-2-1-1536': No such file or directory
+>>>>>>>>>>>>>>>>run teragen: 2 2 512<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	0m2.879s
+user	0m4.013s
+sys	0m0.578s
+------------------run terasort: 2 2 512-------------------------------------------
+
+real	0m3.050s
+user	0m3.732s
+sys	0m0.543s
+rm: Permission denied: user=root, access=WRITE, inode="/results":hdfs:supergroup:drwxr-xr-x
+rm: Permission denied: user=root, access=WRITE, inode="/results":hdfs:supergroup:drwxr-xr-x
+>>>>>>>>>>>>>>>>run teragen: 2 2 1024<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	0m3.104s
+user	0m4.372s
+sys	0m0.548s
+------------------run terasort: 2 2 1024-------------------------------------------
+
+real	0m2.748s
+user	0m3.399s
+sys	0m0.498s
+rm: `/results/tg-10GB-2-2-1024': No such file or directory
+rm: `/results/ts-10GB-2-2-1024': No such file or directory
+>>>>>>>>>>>>>>>>run teragen: 2 2 1536<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	0m3.236s
+user	0m4.121s
+sys	0m0.583s
+------------------run terasort: 2 2 1536-------------------------------------------
+
+real	0m2.625s
+user	0m3.824s
+sys	0m0.519s
+rm: `/results/tg-10GB-2-2-1536': No such file or directory
+rm: `/results/ts-10GB-2-2-1536': No such file or directory
+>>>>>>>>>>>>>>>>run teragen: 2 4 512<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	0m3.330s
+user	0m4.251s
+sys	0m0.548s
+------------------run terasort: 2 4 512-------------------------------------------
+
+real	0m2.901s
+user	0m3.479s
+sys	0m0.490s
+rm: `/results/tg-10GB-2-4-512': No such file or directory
+rm: `/results/ts-10GB-2-4-512': No such file or directory
+>>>>>>>>>>>>>>>>run teragen: 2 4 1024<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	0m3.164s
+user	0m4.397s
+sys	0m0.555s
+------------------run terasort: 2 4 1024-------------------------------------------
+
+real	0m2.686s
+user	0m3.478s
+sys	0m0.474s
+rm: `/results/tg-10GB-2-4-1024': No such file or directory
+rm: `/results/ts-10GB-2-4-1024': No such file or directory
+>>>>>>>>>>>>>>>>run teragen: 2 4 1536<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	0m3.007s
+user	0m3.907s
+sys	0m0.565s
+------------------run terasort: 2 4 1536-------------------------------------------
+
+real	0m2.818s
+user	0m3.366s
+sys	0m0.493s
+rm: `/results/tg-10GB-2-4-1536': No such file or directory
+rm: `/results/ts-10GB-2-4-1536': No such file or directory
+>>>>>>>>>>>>>>>>run teragen: 2 8 512<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	0m3.284s
+user	0m4.619s
+sys	0m0.555s
+------------------run terasort: 2 8 512-------------------------------------------
+^C
+[root@ip-172-31-33-107 lab]# su hdfs
+[hdfs@ip-172-31-33-107 lab]$ ls
+loop.sh            tera_1_2_512.out   tera_1_8_512.out   tera_2_2_512.out
+tera_1_1_1024.err  tera_1_4_1024.err  tera_2_1_1024.err  tera_2_4_1024.err
+tera_1_1_1024.out  tera_1_4_1024.out  tera_2_1_1024.out  tera_2_4_1024.out
+tera_1_1_1536.err  tera_1_4_1536.err  tera_2_1_1536.err  tera_2_4_1536.err
+tera_1_1_1536.out  tera_1_4_1536.out  tera_2_1_1536.out  tera_2_4_1536.out
+tera_1_1_512.err   tera_1_4_512.err   tera_2_1_512.err   tera_2_4_512.err
+tera_1_1_512.out   tera_1_4_512.out   tera_2_1_512.out   tera_2_4_512.out
+tera_1_2_1024.err  tera_1_8_1024.err  tera_2_2_1024.err  tera_2_8_512.err
+tera_1_2_1024.out  tera_1_8_1024.out  tera_2_2_1024.out  tera_2_8_512.out
+tera_1_2_1536.err  tera_1_8_1536.err  tera_2_2_1536.err  test2.sh
+tera_1_2_1536.out  tera_1_8_1536.out  tera_2_2_1536.out  test.sh
+tera_1_2_512.err   tera_1_8_512.err   tera_2_2_512.err   yarn-test1.sh
+[hdfs@ip-172-31-33-107 lab]$ ls
+loop.sh            tera_1_2_512.out   tera_1_8_512.out   tera_2_2_512.out
+tera_1_1_1024.err  tera_1_4_1024.err  tera_2_1_1024.err  tera_2_4_1024.err
+tera_1_1_1024.out  tera_1_4_1024.out  tera_2_1_1024.out  tera_2_4_1024.out
+tera_1_1_1536.err  tera_1_4_1536.err  tera_2_1_1536.err  tera_2_4_1536.err
+tera_1_1_1536.out  tera_1_4_1536.out  tera_2_1_1536.out  tera_2_4_1536.out
+tera_1_1_512.err   tera_1_4_512.err   tera_2_1_512.err   tera_2_4_512.err
+tera_1_1_512.out   tera_1_4_512.out   tera_2_1_512.out   tera_2_4_512.out
+tera_1_2_1024.err  tera_1_8_1024.err  tera_2_2_1024.err  tera_2_8_512.err
+tera_1_2_1024.out  tera_1_8_1024.out  tera_2_2_1024.out  tera_2_8_512.out
+tera_1_2_1536.err  tera_1_8_1536.err  tera_2_2_1536.err  test2.sh
+tera_1_2_1536.out  tera_1_8_1536.out  tera_2_2_1536.out  test.sh
+tera_1_2_512.err   tera_1_8_512.err   tera_2_2_512.err   yarn-test1.sh
+[hdfs@ip-172-31-33-107 lab]$ ll
+total 404
+-rwxr-xr-x. 1 root root   866 May  9 18:40 loop.sh
+-rw-rw-r--. 1 hdfs hdfs  9681 May  9 20:19 tera_1_1_1024.err
+-rw-rw-r--. 1 hdfs hdfs   240 May  9 20:17 tera_1_1_1024.out
+-rw-rw-r--. 1 hdfs hdfs  9946 May  9 20:24 tera_1_1_1536.err
+-rw-rw-r--. 1 hdfs hdfs   240 May  9 20:21 tera_1_1_1536.out
+-rw-rw-r--. 1 hdfs hdfs  9929 May  9 20:15 tera_1_1_512.err
+-rw-rw-r--. 1 hdfs hdfs   241 May  9 20:12 tera_1_1_512.out
+-rw-rw-r--. 1 hdfs hdfs  9702 May  9 20:32 tera_1_2_1024.err
+-rw-rw-r--. 1 hdfs hdfs   240 May  9 20:30 tera_1_2_1024.out
+-rw-rw-r--. 1 hdfs hdfs 10151 May  9 20:36 tera_1_2_1536.err
+-rw-rw-r--. 1 hdfs hdfs   240 May  9 20:34 tera_1_2_1536.out
+-rw-rw-r--. 1 hdfs hdfs  9140 May  9 20:28 tera_1_2_512.err
+-rw-rw-r--. 1 hdfs hdfs   242 May  9 20:26 tera_1_2_512.out
+-rw-rw-r--. 1 hdfs hdfs  9805 May  9 20:43 tera_1_4_1024.err
+-rw-rw-r--. 1 hdfs hdfs   241 May  9 20:41 tera_1_4_1024.out
+-rw-rw-r--. 1 hdfs hdfs 10319 May  9 20:47 tera_1_4_1536.err
+-rw-rw-r--. 1 hdfs hdfs   241 May  9 20:45 tera_1_4_1536.out
+-rw-rw-r--. 1 hdfs hdfs  9506 May  9 20:40 tera_1_4_512.err
+-rw-rw-r--. 1 hdfs hdfs   241 May  9 20:38 tera_1_4_512.out
+-rw-rw-r--. 1 hdfs hdfs  9279 May  9 20:54 tera_1_8_1024.err
+-rw-rw-r--. 1 hdfs hdfs   240 May  9 20:52 tera_1_8_1024.out
+-rw-rw-r--. 1 hdfs hdfs  9938 May  9 20:58 tera_1_8_1536.err
+-rw-rw-r--. 1 hdfs hdfs   242 May  9 20:56 tera_1_8_1536.out
+-rw-rw-r--. 1 hdfs hdfs 10164 May  9 20:51 tera_1_8_512.err
+-rw-rw-r--. 1 hdfs hdfs   241 May  9 20:49 tera_1_8_512.out
+-rw-rw-r--. 1 hdfs hdfs 11782 May 10 01:05 tera_2_1_1024.err
+-rw-rw-r--. 1 hdfs hdfs     0 May 10 01:05 tera_2_1_1024.out
+-rw-rw-r--. 1 hdfs hdfs 11782 May 10 01:06 tera_2_1_1536.err
+-rw-rw-r--. 1 hdfs hdfs     0 May 10 01:06 tera_2_1_1536.out
+-rw-rw-r--. 1 hdfs hdfs 11781 May 10 01:05 tera_2_1_512.err
+-rw-rw-r--. 1 hdfs hdfs     0 May 10 01:05 tera_2_1_512.out
+-rw-r--r--. 1 root root 11782 May 10 01:06 tera_2_2_1024.err
+-rw-r--r--. 1 root root     0 May 10 01:06 tera_2_2_1024.out
+-rw-r--r--. 1 root root 11782 May 10 01:06 tera_2_2_1536.err
+-rw-r--r--. 1 root root     0 May 10 01:06 tera_2_2_1536.out
+-rw-rw-r--. 1 hdfs hdfs 83015 May 10 01:06 tera_2_2_512.err
+-rw-rw-r--. 1 hdfs hdfs   136 May 10 01:06 tera_2_2_512.out
+-rw-r--r--. 1 root root 11782 May 10 01:07 tera_2_4_1024.err
+-rw-r--r--. 1 root root     0 May 10 01:06 tera_2_4_1024.out
+-rw-r--r--. 1 root root 11782 May 10 01:07 tera_2_4_1536.err
+-rw-r--r--. 1 root root     0 May 10 01:07 tera_2_4_1536.out
+-rw-r--r--. 1 root root 11781 May 10 01:06 tera_2_4_512.err
+-rw-r--r--. 1 root root     0 May 10 01:06 tera_2_4_512.out
+-rw-r--r--. 1 root root 11616 May 10 01:07 tera_2_8_512.err
+-rw-r--r--. 1 root root     0 May 10 01:07 tera_2_8_512.out
+-rwxrwxr-x. 1 hdfs hdfs  2133 May  9 19:31 test2.sh
+-rwxrwxr-x. 1 hdfs hdfs  2021 May 10 01:04 test.sh
+-rwxr-xr-x. 1 hdfs root  2087 May  9 16:15 yarn-test1.sh
+[hdfs@ip-172-31-33-107 lab]$ exit
+exit
+[root@ip-172-31-33-107 lab]# chown hdfs *
+[root@ip-172-31-33-107 lab]# ll
+total 404
+-rwxr-xr-x. 1 hdfs root   866 May  9 18:40 loop.sh
+-rw-rw-r--. 1 hdfs hdfs  9681 May  9 20:19 tera_1_1_1024.err
+-rw-rw-r--. 1 hdfs hdfs   240 May  9 20:17 tera_1_1_1024.out
+-rw-rw-r--. 1 hdfs hdfs  9946 May  9 20:24 tera_1_1_1536.err
+-rw-rw-r--. 1 hdfs hdfs   240 May  9 20:21 tera_1_1_1536.out
+-rw-rw-r--. 1 hdfs hdfs  9929 May  9 20:15 tera_1_1_512.err
+-rw-rw-r--. 1 hdfs hdfs   241 May  9 20:12 tera_1_1_512.out
+-rw-rw-r--. 1 hdfs hdfs  9702 May  9 20:32 tera_1_2_1024.err
+-rw-rw-r--. 1 hdfs hdfs   240 May  9 20:30 tera_1_2_1024.out
+-rw-rw-r--. 1 hdfs hdfs 10151 May  9 20:36 tera_1_2_1536.err
+-rw-rw-r--. 1 hdfs hdfs   240 May  9 20:34 tera_1_2_1536.out
+-rw-rw-r--. 1 hdfs hdfs  9140 May  9 20:28 tera_1_2_512.err
+-rw-rw-r--. 1 hdfs hdfs   242 May  9 20:26 tera_1_2_512.out
+-rw-rw-r--. 1 hdfs hdfs  9805 May  9 20:43 tera_1_4_1024.err
+-rw-rw-r--. 1 hdfs hdfs   241 May  9 20:41 tera_1_4_1024.out
+-rw-rw-r--. 1 hdfs hdfs 10319 May  9 20:47 tera_1_4_1536.err
+-rw-rw-r--. 1 hdfs hdfs   241 May  9 20:45 tera_1_4_1536.out
+-rw-rw-r--. 1 hdfs hdfs  9506 May  9 20:40 tera_1_4_512.err
+-rw-rw-r--. 1 hdfs hdfs   241 May  9 20:38 tera_1_4_512.out
+-rw-rw-r--. 1 hdfs hdfs  9279 May  9 20:54 tera_1_8_1024.err
+-rw-rw-r--. 1 hdfs hdfs   240 May  9 20:52 tera_1_8_1024.out
+-rw-rw-r--. 1 hdfs hdfs  9938 May  9 20:58 tera_1_8_1536.err
+-rw-rw-r--. 1 hdfs hdfs   242 May  9 20:56 tera_1_8_1536.out
+-rw-rw-r--. 1 hdfs hdfs 10164 May  9 20:51 tera_1_8_512.err
+-rw-rw-r--. 1 hdfs hdfs   241 May  9 20:49 tera_1_8_512.out
+-rw-rw-r--. 1 hdfs hdfs 11782 May 10 01:05 tera_2_1_1024.err
+-rw-rw-r--. 1 hdfs hdfs     0 May 10 01:05 tera_2_1_1024.out
+-rw-rw-r--. 1 hdfs hdfs 11782 May 10 01:06 tera_2_1_1536.err
+-rw-rw-r--. 1 hdfs hdfs     0 May 10 01:06 tera_2_1_1536.out
+-rw-rw-r--. 1 hdfs hdfs 11781 May 10 01:05 tera_2_1_512.err
+-rw-rw-r--. 1 hdfs hdfs     0 May 10 01:05 tera_2_1_512.out
+-rw-r--r--. 1 hdfs root 11782 May 10 01:06 tera_2_2_1024.err
+-rw-r--r--. 1 hdfs root     0 May 10 01:06 tera_2_2_1024.out
+-rw-r--r--. 1 hdfs root 11782 May 10 01:06 tera_2_2_1536.err
+-rw-r--r--. 1 hdfs root     0 May 10 01:06 tera_2_2_1536.out
+-rw-rw-r--. 1 hdfs hdfs 83015 May 10 01:06 tera_2_2_512.err
+-rw-rw-r--. 1 hdfs hdfs   136 May 10 01:06 tera_2_2_512.out
+-rw-r--r--. 1 hdfs root 11782 May 10 01:07 tera_2_4_1024.err
+-rw-r--r--. 1 hdfs root     0 May 10 01:06 tera_2_4_1024.out
+-rw-r--r--. 1 hdfs root 11782 May 10 01:07 tera_2_4_1536.err
+-rw-r--r--. 1 hdfs root     0 May 10 01:07 tera_2_4_1536.out
+-rw-r--r--. 1 hdfs root 11781 May 10 01:06 tera_2_4_512.err
+-rw-r--r--. 1 hdfs root     0 May 10 01:06 tera_2_4_512.out
+-rw-r--r--. 1 hdfs root 11616 May 10 01:07 tera_2_8_512.err
+-rw-r--r--. 1 hdfs root     0 May 10 01:07 tera_2_8_512.out
+-rwxrwxr-x. 1 hdfs hdfs  2133 May  9 19:31 test2.sh
+-rwxrwxr-x. 1 hdfs hdfs  2021 May 10 01:04 test.sh
+-rwxr-xr-x. 1 hdfs root  2087 May  9 16:15 yarn-test1.sh
+[root@ip-172-31-33-107 lab]# su hdfs
+[hdfs@ip-172-31-33-107 lab]$ ./test.sh
+Testing loop started on Wed May 10 01:08:51 UTC 2017
+>>>>>>>>>>>>>>>>run teragen: 2 1 512<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m23.164s
+user	0m5.946s
+sys	0m0.787s
+------------------run terasort: 2 1 512-------------------------------------------
+
+real	2m32.295s
+user	0m8.256s
+sys	0m0.922s
+Deleted /results/tg-10GB-2-1-512
+Deleted /results/ts-10GB-2-1-512
+>>>>>>>>>>>>>>>>run teragen: 2 1 1024<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m34.759s
+user	0m6.194s
+sys	0m0.753s
+------------------run terasort: 2 1 1024-------------------------------------------
+
+real	2m28.759s
+user	0m8.199s
+sys	0m0.962s
+Deleted /results/tg-10GB-2-1-1024
+Deleted /results/ts-10GB-2-1-1024
+>>>>>>>>>>>>>>>>run teragen: 2 1 1536<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m16.855s
+user	0m5.930s
+sys	0m0.740s
+------------------run terasort: 2 1 1536-------------------------------------------
+
+real	3m13.193s
+user	0m8.105s
+sys	0m0.799s
+Deleted /results/tg-10GB-2-1-1536
+Deleted /results/ts-10GB-2-1-1536
+>>>>>>>>>>>>>>>>run teragen: 2 2 512<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	0m2.819s
+user	0m3.827s
+sys	0m0.514s
+------------------run terasort: 2 2 512-------------------------------------------
+
+real	2m10.557s
+user	0m7.748s
+sys	0m0.878s
+Deleted /results/tg-10GB-2-2-512
+Deleted /results/ts-10GB-2-2-512
+>>>>>>>>>>>>>>>>run teragen: 2 2 1024<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m35.655s
+user	0m6.109s
+sys	0m0.739s
+------------------run terasort: 2 2 1024-------------------------------------------
+
+real	2m17.082s
+user	0m8.125s
+sys	0m0.760s
+Deleted /results/tg-10GB-2-2-1024
+Deleted /results/ts-10GB-2-2-1024
+>>>>>>>>>>>>>>>>run teragen: 2 2 1536<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m23.184s
+user	0m6.122s
+sys	0m0.775s
+------------------run terasort: 2 2 1536-------------------------------------------
+
+real	2m29.821s
+user	0m7.600s
+sys	0m0.823s
+Deleted /results/tg-10GB-2-2-1536
+Deleted /results/ts-10GB-2-2-1536
+>>>>>>>>>>>>>>>>run teragen: 2 4 512<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m31.602s
+user	0m6.200s
+sys	0m0.700s
+------------------run terasort: 2 4 512-------------------------------------------
+
+real	1m54.768s
+user	0m7.989s
+sys	0m0.805s
+Deleted /results/tg-10GB-2-4-512
+Deleted /results/ts-10GB-2-4-512
+>>>>>>>>>>>>>>>>run teragen: 2 4 1024<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m32.844s
+user	0m6.096s
+sys	0m0.755s
+------------------run terasort: 2 4 1024-------------------------------------------
+
+real	1m51.850s
+user	0m8.577s
+sys	0m0.903s
+Deleted /results/tg-10GB-2-4-1024
+Deleted /results/ts-10GB-2-4-1024
+>>>>>>>>>>>>>>>>run teragen: 2 4 1536<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m19.003s
+user	0m5.767s
+sys	0m0.770s
+------------------run terasort: 2 4 1536-------------------------------------------
+
+real	2m16.919s
+user	0m8.078s
+sys	0m0.742s
+Deleted /results/tg-10GB-2-4-1536
+Deleted /results/ts-10GB-2-4-1536
+>>>>>>>>>>>>>>>>run teragen: 2 8 512<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m34.036s
+user	0m5.743s
+sys	0m0.757s
+------------------run terasort: 2 8 512-------------------------------------------
+
+real	1m48.942s
+user	0m7.708s
+sys	0m0.804s
+Deleted /results/tg-10GB-2-8-512
+Deleted /results/ts-10GB-2-8-512
+>>>>>>>>>>>>>>>>run teragen: 2 8 1024<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m31.569s
+user	0m6.068s
+sys	0m0.781s
+------------------run terasort: 2 8 1024-------------------------------------------
+
+real	1m39.767s
+user	0m8.013s
+sys	0m0.814s
+Deleted /results/tg-10GB-2-8-1024
+Deleted /results/ts-10GB-2-8-1024
+>>>>>>>>>>>>>>>>run teragen: 2 8 1536<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m36.018s
+user	0m6.153s
+sys	0m0.733s
+------------------run terasort: 2 8 1536-------------------------------------------
+
+real	2m14.747s
+user	0m7.792s
+sys	0m0.767s
+Deleted /results/tg-10GB-2-8-1536
+Deleted /results/ts-10GB-2-8-1536
+>>>>>>>>>>>>>>>>run teragen: 4 1 512<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m15.060s
+user	0m6.067s
+sys	0m0.697s
+------------------run terasort: 4 1 512-------------------------------------------
+
+real	2m32.892s
+user	0m7.974s
+sys	0m0.801s
+Deleted /results/tg-10GB-4-1-512
+Deleted /results/ts-10GB-4-1-512
+>>>>>>>>>>>>>>>>run teragen: 4 1 1024<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m19.415s
+user	0m5.923s
+sys	0m0.709s
+------------------run terasort: 4 1 1024-------------------------------------------
+
+real	2m31.879s
+user	0m9.211s
+sys	0m0.943s
+Deleted /results/tg-10GB-4-1-1024
+Deleted /results/ts-10GB-4-1-1024
+>>>>>>>>>>>>>>>>run teragen: 4 1 1536<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m7.896s
+user	0m5.689s
+sys	0m0.682s
+------------------run terasort: 4 1 1536-------------------------------------------
+
+real	3m8.030s
+user	0m7.697s
+sys	0m0.918s
+Deleted /results/tg-10GB-4-1-1536
+Deleted /results/ts-10GB-4-1-1536
+>>>>>>>>>>>>>>>>run teragen: 4 2 512<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m12.914s
+user	0m5.957s
+sys	0m0.691s
+------------------run terasort: 4 2 512-------------------------------------------
+
+real	2m0.516s
+user	0m8.304s
+sys	0m0.863s
+Deleted /results/tg-10GB-4-2-512
+Deleted /results/ts-10GB-4-2-512
+>>>>>>>>>>>>>>>>run teragen: 4 2 1024<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m9.031s
+user	0m5.960s
+sys	0m0.720s
+------------------run terasort: 4 2 1024-------------------------------------------
+
+real	2m25.211s
+user	0m8.273s
+sys	0m0.827s
+Deleted /results/tg-10GB-4-2-1024
+Deleted /results/ts-10GB-4-2-1024
+>>>>>>>>>>>>>>>>run teragen: 4 2 1536<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m8.113s
+user	0m5.680s
+sys	0m0.727s
+------------------run terasort: 4 2 1536-------------------------------------------
+
+real	2m33.916s
+user	0m8.014s
+sys	0m0.796s
+Deleted /results/tg-10GB-4-2-1536
+Deleted /results/ts-10GB-4-2-1536
+>>>>>>>>>>>>>>>>run teragen: 4 4 512<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m9.972s
+user	0m5.907s
+sys	0m0.754s
+------------------run terasort: 4 4 512-------------------------------------------
+
+real	1m52.787s
+user	0m7.884s
+sys	0m0.770s
+Deleted /results/tg-10GB-4-4-512
+Deleted /results/ts-10GB-4-4-512
+>>>>>>>>>>>>>>>>run teragen: 4 4 1024<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m12.163s
+user	0m5.976s
+sys	0m0.730s
+------------------run terasort: 4 4 1024-------------------------------------------
+
+real	1m49.587s
+user	0m8.068s
+sys	0m0.843s
+Deleted /results/tg-10GB-4-4-1024
+Deleted /results/ts-10GB-4-4-1024
+>>>>>>>>>>>>>>>>run teragen: 4 4 1536<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m11.287s
+user	0m6.376s
+sys	0m0.763s
+------------------run terasort: 4 4 1536-------------------------------------------
+
+real	2m18.161s
+user	0m8.110s
+sys	0m0.835s
+Deleted /results/tg-10GB-4-4-1536
+Deleted /results/ts-10GB-4-4-1536
+>>>>>>>>>>>>>>>>run teragen: 4 8 512<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m11.233s
+user	0m6.038s
+sys	0m0.738s
+------------------run terasort: 4 8 512-------------------------------------------
+
+real	1m47.637s
+user	0m7.568s
+sys	0m0.773s
+Deleted /results/tg-10GB-4-8-512
+Deleted /results/ts-10GB-4-8-512
+>>>>>>>>>>>>>>>>run teragen: 4 8 1024<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m13.622s
+user	0m5.908s
+sys	0m0.657s
+------------------run terasort: 4 8 1024-------------------------------------------
+
+real	1m45.808s
+user	0m7.989s
+sys	0m0.863s
+Deleted /results/tg-10GB-4-8-1024
+Deleted /results/ts-10GB-4-8-1024
+>>>>>>>>>>>>>>>>run teragen: 4 8 1536<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m10.900s
+user	0m5.940s
+sys	0m0.753s
+------------------run terasort: 4 8 1536-------------------------------------------
+
+real	2m18.884s
+user	0m7.905s
+sys	0m0.787s
+Deleted /results/tg-10GB-4-8-1536
+Deleted /results/ts-10GB-4-8-1536
+>>>>>>>>>>>>>>>>run teragen: 8 1 512<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m6.034s
+user	0m5.832s
+sys	0m0.686s
+------------------run terasort: 8 1 512-------------------------------------------
+
+real	2m28.826s
+user	0m7.761s
+sys	0m0.779s
+Deleted /results/tg-10GB-8-1-512
+Deleted /results/ts-10GB-8-1-512
+>>>>>>>>>>>>>>>>run teragen: 8 1 1024<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m9.865s
+user	0m6.044s
+sys	0m0.701s
+------------------run terasort: 8 1 1024-------------------------------------------
+
+real	2m35.198s
+user	0m8.649s
+sys	0m0.901s
+Deleted /results/tg-10GB-8-1-1024
+Deleted /results/ts-10GB-8-1-1024
+>>>>>>>>>>>>>>>>run teragen: 8 1 1536<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m13.323s
+user	0m6.420s
+sys	0m0.724s
+------------------run terasort: 8 1 1536-------------------------------------------
+
+real	3m12.328s
+user	0m8.500s
+sys	0m0.863s
+Deleted /results/tg-10GB-8-1-1536
+Deleted /results/ts-10GB-8-1-1536
+>>>>>>>>>>>>>>>>run teragen: 8 2 512<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m9.182s
+user	0m5.765s
+sys	0m0.729s
+------------------run terasort: 8 2 512-------------------------------------------
+
+real	1m55.045s
+user	0m8.648s
+sys	0m0.913s
+Deleted /results/tg-10GB-8-2-512
+Deleted /results/ts-10GB-8-2-512
+>>>>>>>>>>>>>>>>run teragen: 8 2 1024<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m6.246s
+user	0m6.326s
+sys	0m0.760s
+------------------run terasort: 8 2 1024-------------------------------------------
+
+real	2m3.732s
+user	0m7.793s
+sys	0m0.790s
+Deleted /results/tg-10GB-8-2-1024
+Deleted /results/ts-10GB-8-2-1024
+>>>>>>>>>>>>>>>>run teragen: 8 2 1536<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m8.378s
+user	0m5.757s
+sys	0m0.709s
+------------------run terasort: 8 2 1536-------------------------------------------
+
+real	2m47.635s
+user	0m8.242s
+sys	0m0.822s
+Deleted /results/tg-10GB-8-2-1536
+Deleted /results/ts-10GB-8-2-1536
+>>>>>>>>>>>>>>>>run teragen: 8 4 512<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m2.357s
+user	0m6.327s
+sys	0m0.761s
+------------------run terasort: 8 4 512-------------------------------------------
+
+real	2m13.027s
+user	0m8.085s
+sys	0m0.852s
+Deleted /results/tg-10GB-8-4-512
+Deleted /results/ts-10GB-8-4-512
+>>>>>>>>>>>>>>>>run teragen: 8 4 1024<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m4.348s
+user	0m6.509s
+sys	0m0.762s
+------------------run terasort: 8 4 1024-------------------------------------------
+
+real	1m55.960s
+user	0m7.955s
+sys	0m0.815s
+Deleted /results/tg-10GB-8-4-1024
+Deleted /results/ts-10GB-8-4-1024
+>>>>>>>>>>>>>>>>run teragen: 8 4 1536<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m12.103s
+user	0m5.890s
+sys	0m0.723s
+------------------run terasort: 8 4 1536-------------------------------------------
+
+real	2m12.954s
+user	0m8.485s
+sys	0m0.846s
+Deleted /results/tg-10GB-8-4-1536
+Deleted /results/ts-10GB-8-4-1536
+>>>>>>>>>>>>>>>>run teragen: 8 8 512<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m6.301s
+user	0m5.946s
+sys	0m0.709s
+------------------run terasort: 8 8 512-------------------------------------------
+
+real	1m46.079s
+user	0m7.610s
+sys	0m0.841s
+Deleted /results/tg-10GB-8-8-512
+Deleted /results/ts-10GB-8-8-512
+>>>>>>>>>>>>>>>>run teragen: 8 8 1024<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m2.345s
+user	0m6.255s
+sys	0m0.796s
+------------------run terasort: 8 8 1024-------------------------------------------
+
+real	1m40.119s
+user	0m7.833s
+sys	0m0.795s
+Deleted /results/tg-10GB-8-8-1024
+Deleted /results/ts-10GB-8-8-1024
+>>>>>>>>>>>>>>>>run teragen: 8 8 1536<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m9.331s
+user	0m5.869s
+sys	0m0.729s
+------------------run terasort: 8 8 1536-------------------------------------------
+
+real	2m9.048s
+user	0m8.868s
+sys	0m0.965s
+Deleted /results/tg-10GB-8-8-1536
+Deleted /results/ts-10GB-8-8-1536
+>>>>>>>>>>>>>>>>run teragen: 12 1 512<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m11.202s
+user	0m6.336s
+sys	0m0.748s
+------------------run terasort: 12 1 512-------------------------------------------
+
+real	2m37.329s
+user	0m8.652s
+sys	0m0.807s
+Deleted /results/tg-10GB-12-1-512
+Deleted /results/ts-10GB-12-1-512
+>>>>>>>>>>>>>>>>run teragen: 12 1 1024<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m8.025s
+user	0m6.118s
+sys	0m0.701s
+------------------run terasort: 12 1 1024-------------------------------------------
+
+real	2m31.925s
+user	0m8.168s
+sys	0m0.811s
+Deleted /results/tg-10GB-12-1-1024
+Deleted /results/ts-10GB-12-1-1024
+>>>>>>>>>>>>>>>>run teragen: 12 1 1536<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+real	1m11.057s
+user	0m6.106s
+sys	0m0.780s
+------------------run terasort: 12 1 1536-------------------------------------------
+
+real	3m31.404s
+user	0m8.436s
+sys	0m0.874s
+Deleted /results/tg-10GB-12-1-1536
+Deleted /results/ts-10GB-12-1-1536
+>>>>>>>>>>>>>>>>run teragen: 12 2 512<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
