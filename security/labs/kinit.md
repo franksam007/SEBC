@@ -1,5 +1,6 @@
 `# kinit cloudera-scm/admin@FRANK.COM` 
 >Password for cloudera-scm/admin@FRANK.COM:
+
 `#klist`
 ><pre>Ticket cache: FILE:/tmp/krb5cc_0
 Default principal: cloudera-scm/admin@FRANK.COM
