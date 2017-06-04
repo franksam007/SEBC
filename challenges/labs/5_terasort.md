@@ -1,9 +1,13 @@
 * Run the terasort program as `zhou` using the output target  
-   <pre>export MR=/opt/cloudera/parcels/CDH/lib/hadoop-0.20-mapreduce
+```
+export MR=/opt/cloudera/parcels/CDH/lib/hadoop-0.20-mapreduce
 export HADOOP=/opt/cloudera/parcels/CDH/bin   
+```
+```
 ${HADOOP}/hadoop jar $MR/hadoop-examples.jar terasort \
-                     tgen tsort</pre>
-><pre>17/05/12 04:06:34 INFO terasort.TeraSort: starting
+                     tgen tsort
+```    
+<pre>17/05/12 04:06:34 INFO terasort.TeraSort: starting
 17/05/12 04:06:36 INFO hdfs.DFSClient: Created token for zhou: HDFS_DELEGATION_TOKEN owner=zhou@FRANKSAM007.CN, renewer=yarn, realUser=, issueDate=1494561996228, maxDate=1495166796228, sequenceNumber=1, masterKeyId=2 on 172.31.32.25:8020
 17/05/12 04:06:36 INFO security.TokenCache: Got dt for hdfs://ip-172-31-32-25.us-west-2.compute.internal:8020; Kind: HDFS_DELEGATION_TOKEN, Service: 172.31.32.25:8020, Ident: (token for zhou: HDFS_DELEGATION_TOKEN owner=zhou@FRANKSAM007.CN, renewer=yarn, realUser=, issueDate=1494561996228, maxDate=1495166796228, sequenceNumber=1, masterKeyId=2)
 17/05/12 04:06:36 INFO input.FileInputFormat: Total input paths to process : 6
