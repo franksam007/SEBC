@@ -1,13 +1,16 @@
-* The full `teragen` command and job output  
-  <pre>export MR=/opt/cloudera/parcels/CDH/lib/hadoop-0.20-mapreduce
+* The full `teragen` command and job output
+```
+export MR=/opt/cloudera/parcels/CDH/lib/hadoop-0.20-mapreduce
 export HADOOP=/opt/cloudera/parcels/CDH/bin
 time ${HADOOP}/hadoop jar ${MR}/hadoop-examples.jar teragen \
                      -Ddfs.blocksize=64M \
                      -Dmapreduce.job.maps=6 \
                      -Dmapreduce.map.memory.mb=1024 \
                      -Dmapreduce.map.java.opts.max.heap=`echo "(1024*0.8)/1" | bc` \
-                    65536000 tgen</pre>
-><pre>17/05/12 03:27:10 INFO client.RMProxy: Connecting to ResourceManager at ip-172-31-32-25.us-west-2.compute.internal/172.31.32.25:8032
+                    65536000 tgen
+```
+```
+17/05/12 03:27:10 INFO client.RMProxy: Connecting to ResourceManager at ip-172-31-32-25.us-west-2.compute.internal/172.31.32.25:8032
 17/05/12 03:27:11 INFO terasort.TeraSort: Generating 65536000 using 6
 17/05/12 03:27:11 INFO mapreduce.JobSubmitter: number of splits:6
 17/05/12 03:27:11 INFO mapreduce.JobSubmitter: Submitting tokens for job: job_1494557392473_0001
@@ -85,13 +88,16 @@ time ${HADOOP}/hadoop jar ${MR}/hadoop-examples.jar teragen \
 		Bytes Read=0
 	File Output Format Counters 
 		Bytes Written=6553600000</pre>
+```
 * The result of the `time` command
-><pre>real	1m24.774s
+```
+real	1m24.774s
 user	0m5.718s
 sys	0m0.690s
-</pre>
+```
 * The command and output of `hdfs dfs -ls /user/zhou/tgen`  
-><pre>Found 7 items
+```
+Found 7 items
 -rw-r--r--   3 zhou supergroup          0 2017-05-12 03:28 /user/zhou/tgen/_SUCCESS
 -rw-r--r--   3 zhou supergroup 1092266700 2017-05-12 03:28 /user/zhou/tgen/part-m-00000
 -rw-r--r--   3 zhou supergroup 1092266700 2017-05-12 03:28 /user/zhou/tgen/part-m-00001
@@ -99,4 +105,4 @@ sys	0m0.690s
 -rw-r--r--   3 zhou supergroup 1092266700 2017-05-12 03:28 /user/zhou/tgen/part-m-00003
 -rw-r--r--   3 zhou supergroup 1092266700 2017-05-12 03:28 /user/zhou/tgen/part-m-00004
 -rw-r--r--   3 zhou supergroup 1092266600 2017-05-12 03:28 /user/zhou/tgen/part-m-00005
-</pre>
+```
